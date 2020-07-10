@@ -1,0 +1,8 @@
+server:
+  port: 8082
+security:
+  oauth2:
+    resource:
+      filter-order: 3
+      jwt:
+        key-value: "DUAQEySnA4WgEJARkG7rgDtPnGmJ/KA46f47Eb7GlT4="
